@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+}
+
+.image{
+    width: 500px;
+}
+
+h1{
+    font-size: 3rem;
+    color: rgb(69, 69, 154);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
